@@ -1,7 +1,7 @@
 #include <RH_ASK.h>
 #include <SPI.h> // Not actualy used but needed to compile
 
- RH_ASK driver(2000, 2, 3, 10); // (Speed,rec pin,trans pin,--)  
+ RH_ASK driver(2000, 2, 3, 10); // (Speed,rec pin,trans pin,ptt)  
  int j = 0;
 void setup()
 {
