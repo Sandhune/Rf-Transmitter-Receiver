@@ -1,4 +1,4 @@
-# Rf-Transmitter-Receiver
+
 echo "# Rf-Transmitter-Receiver" >> README.md
 git init
 git add README.md
